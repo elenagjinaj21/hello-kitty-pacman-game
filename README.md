@@ -284,11 +284,6 @@ GameApplication (main loop)
 
 ## Project Management
 
-You're editing the README directly in VS Code — that's the raw markdown view, not a preview. The tables are actually fine, the issue is you need to paste the new Project Management section into your README replacing the old one.
-Share your current README file and I'll give you the exact full file with the fix already in it, ready to save.
-Or, paste this block directly into your README replacing everything from ## Project Management onwards:
-markdown## Project Management
-
 ### Team
 
 | Member | Role |
